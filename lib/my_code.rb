@@ -1,5 +1,5 @@
 require 'pry'
-# My Code here....
+# map method here....
 def map_to_negativize(source_array)
   new = []
   i = 0 
